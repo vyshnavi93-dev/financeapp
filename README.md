@@ -170,13 +170,9 @@ These decisions were made to keep the implementation simple and focused on core 
 - Proper validation and error handling
 - Null-safe data processing
 
----
+-
 
-👤 Author
-
-Developed by  T.vyshnavi as part of a backend assignment submission.
-
----
+ 
 
 📌 Conclusion
 
